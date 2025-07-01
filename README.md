@@ -50,4 +50,11 @@ MISTRAL_API_KEY=your_actual_mistral_api_key_here
 streamlit run tool.py
 ```
 
+---
 
+## Project Structure
+
+- tool.py: The main Streamlit application that runs the News Research Tool.
+- requirements.txt: A list of required Python packages for the project.
+- .env: Configuration file for storing your Mistral API key securely.
+- README.md: Documentation file that explains the project, features and setup.
