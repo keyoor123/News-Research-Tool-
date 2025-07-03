@@ -22,7 +22,7 @@ llm = ChatMistralAI(
 )
 
 # Streamlit UI
-st.title("RockyBot: News Research Tool 📈")
+st.title("News Research Tool 📈")
 st.sidebar.title("News Article URLs")
 
 urls = []
